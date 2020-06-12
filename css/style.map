@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		".links {\n    display: flex;\n    &__elem {\n        color: blue;\n        text-decoration: underline;\n    }\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,MAAM,CAAC;EACH,OAAO,EAAE,IAAI;CAKhB;;;AAJI,AAAD,YAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,SAAS;CAC7B"
+}
